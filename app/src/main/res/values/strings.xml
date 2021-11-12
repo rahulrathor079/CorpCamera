@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Corp Camera</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="camera">Camera</string>
 </resources>
